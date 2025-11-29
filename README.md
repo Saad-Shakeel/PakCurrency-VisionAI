@@ -1,4 +1,4 @@
-# pak-currency-vision-ai
+# PakCurrency VisionAI
 
 A comprehensive computer vision–based system for Pakistani currency denomination detection and fake-note verification using state-of-the-art deep learning models.
 
