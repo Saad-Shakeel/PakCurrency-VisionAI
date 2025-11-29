@@ -12,19 +12,19 @@ This project implements an AI-powered solution for:
 ## 📊 Notebooks
 
 ### 1. Note Denomination Detection
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saad-Shakeel/pak-currency-vision-ai/blob/main/01_note_denomination_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saad-Shakeel/PakCurrency-VisionAI/blob/main/01_note_denomination_detection.ipynb)
 
 Trains a YOLOv11 model for detecting and classifying Pakistani currency note denominations.
 
 
 ### 2. Note Authenticity Verification
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saad-Shakeel/pak-currency-vision-ai/blob/main/02_note_authenticity_verification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saad-Shakeel/PakCurrency-VisionAI/blob/main/02_note_authenticity_verification.ipynb)
 
 Builds and trains a deep learning model for distinguishing between real and fake Pakistani currency notes.
 
 
 ### 3. Inferencing Pipeline
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saad-Shakeel/pak-currency-vision-ai/blob/main/03_inferencing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saad-Shakeel/PakCurrency-VisionAI/blob/main/03_inferencing.ipynb)
 
 Combined inference pipeline for both denomination detection and authenticity verification.
 
